@@ -1,0 +1,11 @@
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\bin\Debug\netcoreapp2.1\test-git-project.deps.json
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\bin\Debug\netcoreapp2.1\test-git-project.runtimeconfig.json
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\bin\Debug\netcoreapp2.1\test-git-project.runtimeconfig.dev.json
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\bin\Debug\netcoreapp2.1\test-git-project.dll
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\bin\Debug\netcoreapp2.1\test-git-project.pdb
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\obj\Debug\netcoreapp2.1\test-git-project.csprojAssemblyReference.cache
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\obj\Debug\netcoreapp2.1\test-git-project.csproj.CoreCompileInputs.cache
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\obj\Debug\netcoreapp2.1\test-git-project.AssemblyInfoInputs.cache
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\obj\Debug\netcoreapp2.1\test-git-project.AssemblyInfo.cs
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\obj\Debug\netcoreapp2.1\test-git-project.dll
+C:\Users\tomasz.umbras\Documents\Tests\test-git-project\obj\Debug\netcoreapp2.1\test-git-project.pdb
